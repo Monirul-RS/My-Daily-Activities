@@ -1,0 +1,86 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    background-color: gainsboro;
+
+}
+
+.activity-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.yoga{
+    margin-left: 10%;
+    margin-top: 10%;
+    display: flex;
+    color: midnightblue;
+}
+.icon-2{
+    font-size: 50px;
+}
+.yoga h1{
+    color: midnightblue;
+    margin-left: 10px;
+}
+
+.select{
+    margin-left: 150px;
+
+}
+
+.qna{
+    margin-left: 50%;
+    text-decoration: underline;
+    color: rgb(7, 7, 87) ;
+    
+}
+.answer{
+    margin-left: 10%;
+}
+.answer h2{
+    color: rgb(14, 14, 107);
+}
+.answer p{
+    font-size: 20px;
+}
+
+/* responsive for mobile device */
+@media screen and (max-width: 576px){
+    .shop-container{
+        grid-template-columns: 1fr;
+        background-color: gainsboro;
+        
+        /* padding-left: 10%; */
+    }
+    .activity-container{
+        grid-template-columns: 1fr;
+        /* padding-left: 10%; */
+        margin-left: 2%;
+    }
+    .yoga{
+        margin-left: 5px;
+    }
+    .select{
+        margin-left: 10%;
+    
+    }
+    .qna{
+        margin-left: 25%;
+        text-decoration: underline;
+        color: rgb(7, 7, 87) ;
+        
+    }
+
+
+
+
+
+
+
+
+
+}
+

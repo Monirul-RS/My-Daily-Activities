@@ -1,0 +1,51 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "GHARUDASANA YOGA",
+    "time": 30,
+    "age": "18-25",
+    "img": "https://t4.ftcdn.net/jpg/02/31/44/11/360_F_231441176_p9k4EPj5EQX9i2xJhMPfKOUH4GwqdkmJ.jpg"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "DHANURASANA YOGA",
+    "seller": "Addidas",
+    "time": 45,
+    "age": "23-30",
+    "img": "https://www.mensjournal.com/wp-content/uploads/2020/07/WheelPose.jpg?w=900&h=506&crop=1&quality=86&strip=all"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "KUNDALINI YOGA",
+    "seller": "Addidas",
+    "time": 50,
+    "age": "20-29",
+    "img": "https://media.istockphoto.com/photos/taking-a-moment-to-breathe-picture-id1277294716?k=20&m=1277294716&s=612x612&w=0&h=L7xD83fHtXb-IsYhuCjkPf96yL567EXZDd1spTtYKu4="
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "MEDITATION YOGA",
+    "seller": "Addidas",
+    "time": 35,
+    "age": "20-30",
+    "img": "https://thumbs.dreamstime.com/b/yoga-men-workout-studio-front-window-yoga-men-workout-studio-training-front-window-201215556.jpg"
+    
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "HALASANA YOGA",
+    "seller": "Addidas",
+    "time": 60,
+    "age": "18-25",
+    "img": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/lotus.jpg?v=1570108224"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "BIKRAM YOGA",
+    "seller": "Addidas",
+    "time": 40,
+    "age": "19-25",
+    "img": "https://hips.hearstapps.com/hmg-prod/images/yoga-for-cyclists-1553886978.png?crop=0.667610953729934xw:1xh;center,top&resize=640:*"
+    
+  }
+]
